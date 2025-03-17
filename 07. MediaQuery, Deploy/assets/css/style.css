@@ -1,0 +1,420 @@
+.nav_area {
+    height: 10rem;
+    width: 72rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 35rem;
+   
+}
+
+hr {
+    border: none;
+    border-top:  2px dashed rgba(0, 0, 0, 0.3);
+    width: 100%;
+}
+
+.ul1 ul {
+    display: flex;
+    gap: 3rem;
+    text-decoration: none;
+    list-style-type: none;
+    width: 42.5rem;
+    height: 4rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ul1 ul :hover{
+    display: flex;
+    gap: 3rem;
+    text-decoration: none;
+    list-style-type: none;
+    width: 42.5rem;
+    height: 4rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    align-items: center;
+    color: gray;
+    cursor: pointer;
+}
+
+.photo1 {
+    width: 19.5rem;
+    height: 5.9rem;
+}
+
+.left-content{
+    width: 63.52rem;
+    height: 55.003rem;
+    margin-left: 8rem;
+}
+
+.photo2 img{
+    
+    width: 60.5rem;
+    height: 52.1rem;
+}
+
+.text1{
+    position: absolute;
+    left: 100px;
+    top: 50%;
+    transform: translateY(-50%);
+    
+}
+
+h1{
+    color: #fff;
+    margin-top: -10px;
+    font-size: 52px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+span{
+    font-size: 16px;
+    color: #fff;
+    font-weight: 400;
+    font-style: italic;
+    display: block;
+    margin-bottom: 30px;
+}
+.left-content-button button{
+   width: 14.873rem;
+   height: 4.51rem;
+   background: transparent;
+   border: solid 1.5px white;
+   color: white;
+}
+
+.photo3 img{
+    width: 28.8rem;
+    height: 24.7rem;
+}
+
+.small-text{
+    font-style: italic;
+    font-size: 1.5rem;
+}
+
+h4{
+    font-size: 3rem;
+}
+
+.text2{
+    width: 28.76rem;
+    height: 6.78;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    right: 50%;
+    color: white;
+    
+}
+.box1{
+    position: relative;
+    width: 28.8rem;
+    height: 24.7rem;
+}
+
+.boxes1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2.5rem;
+
+}
+.right-content{
+    width: 63.52rem;
+    height: 55.003rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main{
+    margin-top: 2rem;
+    display: flex;
+    gap: 24rem;
+   
+   
+}
+
+h3{
+    font-size: 34px;
+    font-weight: 700px;
+    color: #2a2a2a;
+    
+}
+
+.mens-text{
+    font-size: 14px;
+    color: #a1a1a1;
+    font-style: italic;
+    font-weight: 400;
+}
+.mens-header{
+    margin-top: 6rem;
+}
+.ul2 ul{
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+}
+h5{
+    font-size: 22px;
+    color: #2a2a2a;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+p{
+    font-size: 18px;
+    color: #a1a1a1;
+    font-weight: 500;
+    display: block;
+}
+
+.text3{
+
+    display: flex;
+    justify-content: space-between;
+    width: 35rem;
+    height: 2.6rem;
+    margin-top: 2rem;
+}
+.article{
+    margin-top: 3rem;
+    display: flex;
+    gap: 3rem;
+    margin-bottom: 8rem;
+}
+.WomenLatest{
+    margin-top: 6rem;
+}
+.KidLatest{
+    margin-top: 6rem;
+}
+
+.section{
+ margin-top: 6rem;
+}
+
+.left-content2{
+    width: 57rem;
+    height: 54rem;
+}
+
+h2{
+    color: black;
+    margin-top: -10px;
+    font-size: 52px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.p-left{
+    font-size: 18px;
+    color: #a1a1a1;
+    font-weight: 500;
+    display: block;
+}
+.quote{
+    margin-top: -35rem;
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+.beforeicon{
+    font-size: 3rem;
+}
+.p-icon p{
+    color: black;
+}
+
+.p-left2{
+    font-size: 1.5rem;
+    color: #aaaaaa;
+    font-weight: 500;
+    display: block;
+    margin-top: 25px;
+}
+.p-left3{
+    font-size: 1.5rem;
+    color: #aaaaaa;
+    font-weight: 500;
+    display: block;
+    margin-top: 25px;
+}
+
+.left-content2button button{
+    width: 14.873rem;
+    height: 4.51rem;
+    background: transparent;
+    border: solid 1.5px black;
+    color: black;
+    margin-top: 2rem;
+ }
+
+.contents{
+    width: 114rem;
+    height: 54rem;
+    display: flex;
+}
+.right-content2{
+    width: 57rem;
+    height: 54rem;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+
+.image{
+    width: 28.5rem;
+    height: 28.5rem;
+    margin-bottom: -4rem;
+}
+.image img{
+    width: 25.5rem;
+    height: 25.5rem;
+}
+.sosial{
+    
+    margin-top: 9rem;
+    padding-bottom: 9rem;
+}
+
+.text01 h1{
+    font-size: 3.4rem;
+    font-weight: 700;
+    color: #2a2a2a;
+}
+.text01 span{
+    font-size: 2rem;
+    color: #a1a1a1;
+    font-style: italic;
+    font-weight: 400;
+}
+.image01{
+    margin-top: 9rem;
+    padding-bottom: 9rem;
+    display: flex;
+    
+}
+
+.image01 :hover{    
+    cursor: pointer;
+}
+.contents02{
+    width: 114rem;
+    height: 28.2rem;
+}
+.left-content03 h2{
+    font-size: 3.4rem;
+    font-weight: 700;
+    color: #2a2a2a;
+    
+}
+.left-content03 span{
+    font-size: 2rem;
+    color: #a1a1a1;
+    font-style: italic;
+    font-weight: 400;
+}
+.subscribebutton button{
+    width: 28.873rem;
+    height: 4.51rem;
+    background: transparent;
+    border: solid 1.5px black;
+    color: black;
+    margin-top: 2rem;
+ }
+ .telegram{
+    font-size: 4rem;
+    width: 4.4rem;
+    height: 4.4rem;
+ }
+
+ .subscribebutton{
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+ }
+ 
+ .ul3 ul{
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: #2a2a2a;
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+ }
+ .ul4 ul{
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: #2a2a2a;
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+ }
+ .right-content03{
+    display: flex;
+    gap: 8rem;
+ }
+
+ .contents02{
+    display: flex;
+    gap: 4rem;
+ }
+
+ .footer {
+    background-color: #222;
+    color: white;
+    padding: 50px 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 100%;
+}
+.footer-column {
+    flex: 1;
+    min-width: 280px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+.footer-column h3 {
+    margin-bottom: 15px;
+    font-size: 20px;
+    color: #fff;
+}
+.footer-column ul {
+    list-style: none;
+    padding: 0;
+    font-size: 2rem;
+}
+.footer-column ul li {
+    margin-bottom: 10px;
+}
+.footer-column ul li a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+.footer-column ul li a:hover {
+    color: gray;
+}
+.footer-column p {
+    margin: 5px 0;
+}
+.footer-column img{
+    width: 19.5rem;
+    height: 5.9rem;
+}
