@@ -1,0 +1,52 @@
+header{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/header-bg.jpg);
+    height: 745px;
+}
+.text01{
+    height: 745px;
+}
+.button01{
+    padding: 10px 20px;
+}
+
+.text01 .p01{
+ font-size: 40px;
+}
+.text01 .h02{
+font-size: 70px;
+}
+.image img{
+     width: 400px;
+     height: 300px;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.footer-left, .footer-right {
+    font-size: 14px;
+    color: #333;
+}
+
+.footer-center {
+    display: flex;
+    gap: 15px;
+}
+
+.footer-center a img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #222;
+    padding: 10px;
+}
+
+.footer-right a {
+    text-decoration: none;
+    color: #333;
+    margin-left: 10px;
+}
